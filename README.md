@@ -36,7 +36,7 @@ Below is a structured list of essential CSS topics. Each section contains a link
 
 ---
 
-## 🛠️ How to Contribute
+##  How to Contribute
 
 Contributions are highly encouraged! If you notice a missing concept, an error, or have a better example, please feel free to open a pull request. 
 ---
